@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * test issue nr 12458
+* test 2
+
